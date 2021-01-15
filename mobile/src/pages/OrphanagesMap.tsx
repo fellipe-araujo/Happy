@@ -21,8 +21,6 @@ const OrphanagesMap = () => {
 
   const navigation = useNavigation();
 
-  console.log(orphanages);
-
   useFocusEffect(() => {
     api.get("orphanages/all").then((response) => {
       setOrphanages(response.data);
