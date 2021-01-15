@@ -1,18 +1,28 @@
 # Happy
 
+<h1 align="center">
+  <img src="assets/Logo.svg" />
+</h1>
 
-![Happy](assets/app-happy.png)
+<p align="center">
+  <img src="assets/app-happy.png" />
+</p>
 
-* Aplicação Web e Mobile desenvolvida durante a Next Level Week #3. Este projeto tem o intuito de cadastrar Orfanatos informando dados como, por exemplo, nome, foto(s), instruções, descrição, horário de atendimento e se funciona nos fins de semana.
+## :computer: Projeto
 
-## Aplicação FullStack completa
+Aplicação Web e Mobile desenvolvida durante a Next Level Week #3. Este projeto tem o intuito de cadastrar Orfanatos informando dados como, por exemplo, nome, foto(s), instruções, descrição, horário de atendimento e se funciona nos fins de semana.
 
-* Back-end
-* Front-end Web
-* Front-end Mobile
+## :zap: Tecnologias
 
-## Principais tecnologias utilizadas
 * Node.js
 * ReactJS
 * React Native
+* Expo
 * TypeScript
+
+## :heavy_check_mark: Aplicação FullStack Completa
+
+* Backend
+* Front-Web
+* Front-Mobile
+
