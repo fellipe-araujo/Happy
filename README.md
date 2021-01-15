@@ -1,5 +1,3 @@
-# Happy
-
 <h1 align="center">
   <img src="assets/Logo.svg" />
 </h1>
